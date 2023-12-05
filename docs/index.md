@@ -3,7 +3,6 @@ layout: cv
 title: Adam J Thompson Resume
 ---
 # Adam J Thompson
-www.linkedin.com/in/adam-james-thompson/
 
 # Summary
 - Driven individual desiring to work in tax and audit.
@@ -12,7 +11,7 @@ www.linkedin.com/in/adam-james-thompson/
 - Motivated to complete tasks with minimal errors efficiently.
 
 <div id="webaddress">
-<a href="adamjthompson5@gmail.com">datascience@byui.edu</a>
+<a href="adamjthompson5@gmail.com">adamjthompson5@gmail.com</a>
 | <a href="https://www.linkedin.com/in/adam-james-thompson/">LinkedIn</a>
 </div>
 
