@@ -1,9 +1,15 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Adam J Thompson Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Adam J Thompson
+(208) 644-0747|adamjthompson5@gmail.com|www.linkedin.com/in/adam-james-thompson/
+
+# Summary
+- Driven individual desiring to work in tax and audit.
+- Ability to accomplish task with little supervision.
+- Skilled at communicating effectively with customers to fulfill needs.
+- Motivated to complete tasks with minimal errors efficiently.
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,27 +22,21 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
-
+- Expected graduation of April 2024
+- Pursuing a Minor in Financial Management and a Certificate in Data Science
 
 ## Related Experience
 
-### Internships
+### A&A Accountant
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - Present`
+__Cooper Norman__, Rexburg, ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Prepped  financial statements for audits and reviews.
+- Worked as teams to finish projects by deadlines.
+- Communicated needs and concerns with clients.
 
 ### Data Science Lead
 
