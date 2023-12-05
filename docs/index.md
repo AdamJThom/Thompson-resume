@@ -3,7 +3,7 @@ layout: cv
 title: Adam J Thompson Resume
 ---
 # Adam J Thompson
-(208) 644-0747|adamjthompson5@gmail.com|www.linkedin.com/in/adam-james-thompson/
+www.linkedin.com/in/adam-james-thompson/
 
 # Summary
 - Driven individual desiring to work in tax and audit.
@@ -12,10 +12,8 @@ title: Adam J Thompson Resume
 - Motivated to complete tasks with minimal errors efficiently.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="adamjthompson5@gmail.com">datascience@byui.edu</a>
+| <a href="https://www.linkedin.com/in/adam-james-thompson/">LinkedIn</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
