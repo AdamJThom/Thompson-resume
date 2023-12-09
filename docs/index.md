@@ -35,21 +35,25 @@ __Cooper Norman__, Rexburg, ID
 - Worked as teams to finish projects by deadlines.
 - Communicated needs and concerns with clients.
 
-### Data Science Lead
+### Parts Associate 
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`April 2021 - December 2022`
+__Bish's RV of Idaho Falls__, Idaho Falls, Idaho
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Address 3-5 needs and concerns with customers and solve problems.
+- Keep accurate counts of over 70 bin locations of inventory within parts department.
+- Meet or exceed sales goals, while maintaining a 38% gross margin.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Inspection Specialist
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`October 2019 - August 2023`
+__Brigham Young University-Idaho__, Rexburg, Idaho
+
+- Conduct yearly maintenance inspections on over 60 apartment complexes.
+- Write reports labeling deficiencies on scale of 1-3 found in complexes.
+- Hold biweekly meetings with director of Housing to discuss progress of inspections.
+- Use Microsoft CRM and Excel to file reports of inspections.
+- Address concerns of residents
 
 ### Data Science Consulting Team
 
@@ -70,12 +74,8 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
+`2017 - 2019`
+__Service Missionary__, Las Vegas, Nevada
 
 
 
