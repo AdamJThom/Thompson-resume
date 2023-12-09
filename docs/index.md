@@ -55,23 +55,6 @@ __Brigham Young University-Idaho__, Rexburg, Idaho
 - Use Microsoft CRM and Excel to file reports of inspections.
 - Address concerns of residents
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
 ## Service and Work History
 
 `2017 - 2019`
